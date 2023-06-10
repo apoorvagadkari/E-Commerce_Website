@@ -1,0 +1,2 @@
+PORT=8080
+MONGO_URL=mongodb+srv://gadkariapurv:********$@clusterformernstack.c0ksoar.mongodb.net/ecommercecd 
